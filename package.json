@@ -23,6 +23,7 @@
     "file-type": "^16.5.4",
     "human-readable": "^0.2.1",
     "jimp": "^0.16.13",
+     "express": "^4.18.2",
     "jsdom": "^23.0.1",
     "lodash": "^4.17.21",
     "moment-timezone": "^0.5.43",
